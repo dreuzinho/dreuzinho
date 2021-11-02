@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning about serverless
+- 🌱 I’m currently learning about serverless and Laravel framework.
 - 💬 Ask me about anything, maybe i know the answer
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: i love cats and jdm
