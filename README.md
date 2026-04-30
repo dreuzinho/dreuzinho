@@ -42,7 +42,3 @@ I am a **Computer Science** graduate with a postgraduate degree in **Digital For
 ### ⚡ Fun Facts
 *   🐱 Proud cat owner.
 *   🏎️ Huge fan of **JDM** cars (the perfect mix of engineering and aesthetics).
-
-<div>
-    <img height="180cm" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreuzinho&layout=compact&show_icons=true&theme=tokyonight" />
-</div>
